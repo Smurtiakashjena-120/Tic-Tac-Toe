@@ -69,3 +69,14 @@ body{
 .hide{
     display: none;
 }
+#draw-msg{
+    color:#ffffc7;
+    font-size: 5vmin;
+}
+#restart{
+    padding: 1rem;
+    font-size: 1.5rem;
+    background-color: #191913;
+    color: #fff;
+   border: none;   
+}
